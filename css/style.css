@@ -1,0 +1,67 @@
+.bg-color1 {
+    background-color: #99fbff;
+}
+
+.name {
+    color: #f08846;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 5rem;
+}
+
+.tagline {
+    color: #c06cf0;
+    font-family: 'Noto Serif', serif;
+}
+
+.bcolor {
+    border-style: solid;
+    border-color:#5debf0;
+}
+
+.hey {
+    color:#401874;
+    font-size: 75px;
+    padding-bottom: 20px;
+}
+
+.aboutme {
+    font-family: 'Ubuntu', sans-serif;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+
+hr {
+    border: dotted #f08846 10px;
+    width: 7%;
+    border-bottom: none;
+    margin: 100px auto;
+}
+
+.abtitle {
+    font-family: 'Bebas Neue', sans-serif;
+    color: #401874;
+    font-size: 75px;
+}
+
+.boxicon {
+    background-color: #99fbff;
+    color: #f08846;
+}
+
+h3 {
+    font-family: 'Noto Serif', serif;
+    color: #401874;
+}
+
+.pha {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}
+
+.linkcolor {
+    color: #c06cf0;
+}
+
+.footer {
+    background-color: #5debf0;
+}
